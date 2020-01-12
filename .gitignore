@@ -1,0 +1,9 @@
+# IntelliJ
+quarkusexample/.idea
+springbootexample/.idea
+
+# Gradle
+quarkusexample/.gradle/
+quarkusexample/build/
+springbootexample/.gradle/
+springbootexample/build/
