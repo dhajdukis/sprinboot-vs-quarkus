@@ -1,4 +1,4 @@
-# sprinboot-vs-quarkus
+# springboot-vs-quarkus
 
 This project compares the start-up time and memory footprint of a basic "Hello Word" Quarkus and a Spring Boot application, 
 both running on JVM.
